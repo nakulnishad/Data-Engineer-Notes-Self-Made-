@@ -20,5 +20,3 @@ Data Engineer skills
 9)Orchiturtion(airflow)
 
 10)Git & Github 
-
-11)
