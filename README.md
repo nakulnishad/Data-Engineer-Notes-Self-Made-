@@ -5,10 +5,24 @@ Data Engineer skills
 
 
 2)Pandas
+
+
 3)SQL
+
+
 4)Python,java(OOPs,Data Structar)
+
+
 5)Apche spark
-6)AWS Cloud(s3,lambda,
+
+
+6)AWS Cloud(s3,lambda,glue,redshift)
+
+
 7)Data Warehouse
+
+
 8)Power Bi
+
+
 9)Orchiturtion(airflow)
