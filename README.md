@@ -2,6 +2,8 @@
 Data Engineer skills
 --------------------
 1)Linux
+
+
 2)Pandas
 3)SQL
 4)Python,java(OOPs,Data Structar)
